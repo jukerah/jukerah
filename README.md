@@ -1,9 +1,8 @@
 ## Olá! Eu sou o Mario Elvio
 
 - 🔭 Cursando Análise e Desenvolvimento de Sistemas na UNIARA.
-- 🌱 Atualmente estou aprendendo Javascript, Java, .Net e PL/SQL.
+- 🌱 Atualmente estou focado em desenvolvimento em React.js e Node.js.
 - 👯 Adoro trabalhar em equipe.
-- ⚡ Certificados já obtidos em HTML, CSS, lógica de programação, REST, GIT, GITHUB e MVC.
 
 ##
  <div>
