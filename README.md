@@ -10,11 +10,11 @@ Após 10 anos trabalhando como prestador de serviços autônomo, tive a oportuni
 </div>
 <div style="display: inline_block"><br>
   <a href="https://marioelvio.com">
-   <img align="center" alt="Mario-REACT" src="https://img.shields.io/badge/react-239120?style=for-the-badge&logo=react&logoColor=white">
-  <img align="center" alt="Mario-HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Mario-CSS3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Mario-JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="Mario-TypeScript" src="https://img.shields.io/badge/typescript-239120?style=for-the-badge&logo=typescript&logoColor=white">
+   <img align="center" alt="Mario-REACT" src="https://img.shields.io/badge/react-D7F2B8?style=for-the-badge&logo=react&logoColor=black">
+  <img align="center" alt="Mario-HTML5" src="https://img.shields.io/badge/HTML-B8F2B8?style=for-the-badge&logo=html5&logoColor=black">
+  <img align="center" alt="Mario-CSS3" src="https://img.shields.io/badge/CSS-B8C6F2?&style=for-the-badge&logo=css3&logoColor=black">
+  <img align="center" alt="Mario-JavaScript" src="https://img.shields.io/badge/JavaScript-96F2DE?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="Mario-TypeScript" src="https://img.shields.io/badge/typescript-2D2E21?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="right" alt="Mario-yoda" height="150" width="150" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif"></a>
 </div>
   
