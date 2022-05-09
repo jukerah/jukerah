@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Mario Elvio
 
-Após 10 anos trabalhando como prestador de serviços autônomo, tive a oportunidade de conhecer a programação e durante um tempo foi meu hobby, até que decidi virar a chave e iniciar a faculdade em Análise e Desenvolvimento de Sistemas e seguir essa paixão. Meu foco desde o início foi desenvolvimento Front-end, então tracei minhas metas pessoais, objetivos e organizei essa nova rotina. Atualmente focado em nas tecnologias React.js, JavaScript e TypeScript.
+## Após 10 anos trabalhando como prestador de serviços autônomo, tive a oportunidade de conhecer a programação e durante um tempo foi meu hobby, até que decidi virar a chave e iniciar a faculdade em Análise e Desenvolvimento de Sistemas e seguir essa paixão. Meu foco desde o início foi desenvolvimento Front-end, então tracei minhas metas pessoais, objetivos e organizei essa nova rotina. Atualmente focado em nas tecnologias React.js, JavaScript e TypeScript.
 
 ##
  <div>
