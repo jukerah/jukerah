@@ -1,6 +1,4 @@
-## Olá! Eu sou o Mario Elvio
-
-## Após 10 anos trabalhando como prestador de serviços autônomo, tive a oportunidade de conhecer a programação e durante um tempo foi meu hobby, até que decidi virar a chave e iniciar a faculdade em Análise e Desenvolvimento de Sistemas e seguir essa paixão. Meu foco desde o início foi desenvolvimento Front-end, então tracei minhas metas pessoais, objetivos e organizei essa nova rotina. Atualmente focado em nas tecnologias React.js, JavaScript e TypeScript.
+## Olá, eu sou Mario Elvio, tenho 29 anos, moro em Araraquara uma cidade no interior de São Paulo, me considero uma pessoa extremamente calma e observadora, adoro passar meu tempo livre com a família, lendo e estudando coisas que agreguem conhecimento, adoro assistir filmes e series de ficção cientifica. Minha paixão por tecnologia começou aos 6 anos de idade quando ganhei meu primeiro computador, ele era bem velhinho, mas foi o suficiente para me prender nesse incrível mundo digital. Em 2020 decidi migrar de carreira e hoje eu não consigo ver meu futuro longe das linhas de códigos. Atualmente focado em JavaScript, TypeScript, React.js, React Native e Node.js.
 
 ##
  <div align="center">
