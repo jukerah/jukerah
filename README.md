@@ -1,4 +1,4 @@
-## Olá, eu sou Mario Elvio, tenho 29 anos, moro em Araraquara uma cidade no interior de São Paulo, me considero uma pessoa extremamente calma e observadora, adoro passar meu tempo livre com a família, lendo e estudando coisas que agreguem conhecimento, adoro assistir filmes e series de ficção cientifica. Minha paixão por tecnologia começou aos 6 anos de idade quando ganhei meu primeiro computador, ele era bem velhinho, mas foi o suficiente para me prender nesse incrível mundo digital. Em 2020 decidi migrar de carreira e hoje eu não consigo ver meu futuro longe das linhas de códigos. Atualmente focado em JavaScript, TypeScript, React.js, Next.js e Node.js.
+## Sou um profissional dedicado com experiência e habilidades em JavaScript, TypeScript, React.js, Next.js, CSS3 (Styled Components, Tailwind CSS e Sass), Node.js (Express), SQL, PL/SQL e UI Design com figma. Além disso sou autodidata, sempre em busca de novos conhecimentos, apaixonado por resolver problemas complexos e super adaptativo, sem problemas em aprender novas tecnologias conforme a demanda..
 
 ##
  <div align="center">
