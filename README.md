@@ -1,4 +1,4 @@
-## Sou um profissional dedicado com experiência e habilidades em JavaScript, TypeScript, React.js, Next.js, CSS3 (Styled Components, Tailwind CSS e Sass), Node.js (Express), SQL, PL/SQL e UI Design com figma. Além disso sou autodidata, sempre em busca de novos conhecimentos, apaixonado por resolver problemas complexos e super adaptativo, sem problemas em aprender novas tecnologias conforme a demanda..
+## Sou um profissional dedicado com experiência sólida em JavaScript e TypeScript, atuando com React, Next, Vue e Node. Também já trabalhei com Java (Spring Boot), SQL, PL/SQL e possuo conhecimentos em UI Design utilizando Figma. Tenho um perfil autodidata, estou sempre em busca de novos aprendizados e sou apaixonado por resolver problemas complexos. Sou altamente adaptável e aprendo rapidamente novas tecnologias de acordo com a necessidade do projeto ou da equipe.
 
 ##
  <div align="center">
